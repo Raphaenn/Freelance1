@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  Este projeto foi realizado a pedido de um cliente, que precisava de um dashboard interativo para gerenciar o negócio dele. Além de fornecer diversos dados, é possivel fazer toda a parte gerencial por meio do sitema web.
+  Este projeto foi realizado a pedido de um cliente. Nesse trabalho, foi contruído um app de marketing/vendas online, além de um sistema de gerenciamento para o empreendimento.
 </h4>
 
 <p align="center">
